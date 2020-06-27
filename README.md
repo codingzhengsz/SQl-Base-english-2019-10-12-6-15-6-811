@@ -14,7 +14,8 @@ Please create a local database for a student examination system(student_examinat
    | :--: | :-----: | :-----: | :--------------: |
    | 1001 |  Chinese   | Mr. Wang  | the exam is easy |
    | 1002 |  math   | Miss Liu  |  the exam is difficult |
-   ![image2](https://github.com/codingzhengsz/SQl-Base-english-2019-10-12-6-15-6-811/blob/master/hCo147z9wcmWEQX.png?raw=true)
+   
+![image2](https://github.com/codingzhengsz/SQl-Base-english-2019-10-12-6-15-6-811/blob/master/hCo147z9wcmWEQX.png?raw=true)
 3. Table of score:
 
    |  id  | student_id | subject_id | score |
